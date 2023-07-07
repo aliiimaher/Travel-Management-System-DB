@@ -1,0 +1,10 @@
+"filename", "language", "Python", "SQL", "comment", "blank", "total"
+"g:\Term6\Database Design Principles\Project\Code\Queries\createTables.sql", "SQL", 0, 160, 13, 1, 174
+"g:\Term6\Database Design Principles\Project\Code\Queries\enums.sql", "SQL", 0, 2, 2, 0, 4
+"g:\Term6\Database Design Principles\Project\Code\Queries\insert.sql", "SQL", 0, 40, 1, 1, 42
+"g:\Term6\Database Design Principles\Project\Code\Queries\test.sql", "SQL", 0, 12, 0, 0, 12
+"g:\Term6\Database Design Principles\Project\Code\Queries\triggerFunctions.sql", "SQL", 0, 36, 4, 1, 41
+"g:\Term6\Database Design Principles\Project\Code\main.py", "Python", 25, 0, 12, 11, 48
+"g:\Term6\Database Design Principles\Project\Code\sqlRunner.py", "Python", 8, 0, 7, 2, 17
+"g:\Term6\Database Design Principles\Project\Code\triggerRunner.py", "Python", 8, 0, 7, 2, 17
+"Total", "-", 41, 250, 46, 18, 355

@@ -1,0 +1,2 @@
+- Make sure the database connection in main.py berfore running.
+- Note that, I didn't implement some features which mentioned in the doc.

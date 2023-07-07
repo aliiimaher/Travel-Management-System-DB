@@ -1,0 +1,42 @@
+Date : 2023-07-07 08:45:25
+Directory : g:\Term6\Database Design Principles\Project\Code
+Total : 13 files,  594 codes, 186 comments, 54 blanks, all 834 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| SQL      |          9 |        538 |        151 |         35 |        724 |
+| Python   |          4 |         56 |         35 |         19 |        110 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                               | files      | code       | comment    | blank      | total      |
++------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                  |         13 |        594 |        186 |         54 |        834 |
+| . (Files)                                                                          |          4 |         56 |         35 |         19 |        110 |
+| Queries                                                                            |          9 |        538 |        151 |         35 |        724 |
+| Queries (Files)                                                                    |          5 |        367 |         36 |         12 |        415 |
+| Queries\Tasks                                                                      |          4 |        171 |        115 |         23 |        309 |
++------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                           | language | code       | comment    | blank      | total      |
++------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| g:\Term6\Database Design Principles\Project\Code\Queries\Tasks\TAMTasks.sql        | SQL      |         71 |         95 |         12 |        178 |
+| g:\Term6\Database Design Principles\Project\Code\Queries\Tasks\passengerTasks.sql  | SQL      |         46 |          9 |          8 |         63 |
+| g:\Term6\Database Design Principles\Project\Code\Queries\Tasks\superAdminTasks.sql | SQL      |         37 |          9 |          2 |         48 |
+| g:\Term6\Database Design Principles\Project\Code\Queries\Tasks\userTasks.sql       | SQL      |         17 |          2 |          1 |         20 |
+| g:\Term6\Database Design Principles\Project\Code\Queries\createTables.sql          | SQL      |        161 |         14 |          1 |        176 |
+| g:\Term6\Database Design Principles\Project\Code\Queries\enums.sql                 | SQL      |          4 |          4 |          0 |          8 |
+| g:\Term6\Database Design Principles\Project\Code\Queries\insert.sql                | SQL      |        110 |          9 |         10 |        129 |
+| g:\Term6\Database Design Principles\Project\Code\Queries\test.sql                  | SQL      |         12 |          0 |          0 |         12 |
+| g:\Term6\Database Design Principles\Project\Code\Queries\triggerFunctions.sql      | SQL      |         80 |          9 |          1 |         90 |
+| g:\Term6\Database Design Principles\Project\Code\main.py                           | Python   |         38 |         21 |         14 |         73 |
+| g:\Term6\Database Design Principles\Project\Code\sqlRunner.py                      | Python   |          8 |          7 |          2 |         17 |
+| g:\Term6\Database Design Principles\Project\Code\test.py                           | Python   |          2 |          0 |          1 |          3 |
+| g:\Term6\Database Design Principles\Project\Code\triggerRunner.py                  | Python   |          8 |          7 |          2 |         17 |
+| Total                                                                              |          |        594 |        186 |         54 |        834 |
++------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
