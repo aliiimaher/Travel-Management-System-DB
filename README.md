@@ -13,6 +13,8 @@ This project focuses on designing a comprehensive database system for an online 
 Traveling allows us to explore new places, cultures, and perspectives. The growth of the internet has made a significant impact on the travel industry, providing travelers with the convenience of purchasing travel tickets online from their own homes. This project aims to design the database system of an online travel ticket purchasing platform that caters to both customers and travel agencies.
 ![ERD](https://raw.githubusercontent.com/arsalanjabbari/Travel-Management-System/main/ERD/ERD.png)
 
+![ERD](https://raw.githubusercontent.com/arsalanjabbari/Travel-Management-System/main/ERD/ERD.png)
+
 ## Project Overview
 In this project, we will develop a comprehensive online travel ticket booking platform. The system will handle various types of travel options including trains, buses, and airplanes, with a focus on dynamic seat management. Users will have the flexibility to register and log in using either their phone numbers or email addresses, enhancing the authentication process's convenience and security. The project will encompass three types of users: passengers, travel agency managers, and super admins.
 ```
