@@ -1,7 +1,4 @@
 # Travel-Management-System-DB
-This is a Database course project.
-
-Authors: Ali Maher, [Arsalan Jabbari](@arsalanjabbari)
 
 # Online Travel Ticket Purchasing Platform
 
